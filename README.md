@@ -1,2 +1,2 @@
-# calculator
-This is the calculator project from TOP
+# Etch-a-sketch
+This is the Etch-a-sketch project from TOP
