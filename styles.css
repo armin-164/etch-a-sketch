@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: 20px;
+}
+
+.container button {
+    align-self: center;
+}
+
+.gridcontainer {
+    display:flex;
+    align-items: center;
+    flex-direction: column;   
+    gap: 20px; 
+}
+.squarecontainer {
+    display: flex;
+    flex-direction: column;    
+}
+
+.blockrows {
+    display: flex;
+}
+
+
+.squaredivs {
+    border: 1px solid red;
+    padding:10px;
+}
